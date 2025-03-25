@@ -61,7 +61,7 @@ services:
     container_name: "watchtower"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-    command: --interval 30
+    command: --interval 15
 
   perf:
     image: "ewenquim/perf:latest"
@@ -90,7 +90,7 @@ services:
     container_name: "gamma"
 
   epsilon:
-    image: "nginx:latest"
+    image: "desmesis/cass-app:latest"
     container_name: "epsilon"
 
   zeta:
@@ -98,11 +98,11 @@ services:
     container_name: "zeta"
 
   eta:
-    image: "nginx:latest"
+    image: "ayoubsg/archiwebsite:latest"
     container_name: "eta"
 
   kappa:
-    image: "nginx:latest"
+    image: "studentpierre/kappa_recipes:latest"
     container_name: "kappa"
 
   lambda:
