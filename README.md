@@ -60,7 +60,7 @@ Toute initiative est la bienvenue, tant que les fonctionnalités demandées sont
 | beta      | Damien Ouzillou | Theo Garampon | https://github.com/DamsOuz/GourmetRepo/ | https://hub.docker.com/r/damsouz/gourmet-recipes-app |
 | gamma     |Antoine Cheneau|               |         https://github.com/chenow/gourmitton         |    [chenow/gourmitton](https://hub.docker.com/r/chenow/gourmitton)               |
 | delta     |               |               |                |                   |
-| epsilon   |  Liwei SUN    | Dac-An VO     | https://github.com/Dac-An-hub/cass-app               |                   |
+| epsilon   |  Liwei SUN    | Dac-An VO     | https://github.com/Dac-An-hub/cass-app               |     https://hub.docker.com/r/desmesis/cass-app              |
 | zeta      |  Laurent Sun             |   Sharmilan             |     [https://github.com/laurentsunCs/RecipeApp](https://github.com/laurentsunCs/RecipeApp/)           |    llsun/recipe-app|
 | eta       |  Ayoub SGUIAR LHAMDANI |               |     https://github.com/ayoub-sguiar/architectures-web           |                   |
 | theta     |               |               |                |                   |
