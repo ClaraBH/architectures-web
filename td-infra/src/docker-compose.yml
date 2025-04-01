@@ -61,7 +61,7 @@ services:
     container_name: "watchtower"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-    command: --interval 15
+    command: --interval 30
 
   perf:
     image: "ewenquim/perf:latest"
